@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @garlix42  :-)
+- 🌱 I’m currently learning 6502 assembler for the C64
+- 📫 Best way to reach me is through email at garlix(at)gmail.com
